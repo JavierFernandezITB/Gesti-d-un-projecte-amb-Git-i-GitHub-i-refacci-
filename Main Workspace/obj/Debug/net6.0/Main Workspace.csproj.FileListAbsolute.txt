@@ -1,0 +1,15 @@
+C:\Users\prof\Desktop\Javier Fernández Cano\Programacion\CSharp\Main Workspace\Main Workspace\bin\Debug\net6.0\Main Workspace.exe
+C:\Users\prof\Desktop\Javier Fernández Cano\Programacion\CSharp\Main Workspace\Main Workspace\bin\Debug\net6.0\Main Workspace.deps.json
+C:\Users\prof\Desktop\Javier Fernández Cano\Programacion\CSharp\Main Workspace\Main Workspace\bin\Debug\net6.0\Main Workspace.runtimeconfig.json
+C:\Users\prof\Desktop\Javier Fernández Cano\Programacion\CSharp\Main Workspace\Main Workspace\bin\Debug\net6.0\Main Workspace.dll
+C:\Users\prof\Desktop\Javier Fernández Cano\Programacion\CSharp\Main Workspace\Main Workspace\bin\Debug\net6.0\Main Workspace.pdb
+C:\Users\prof\Desktop\Javier Fernández Cano\Programacion\CSharp\Main Workspace\Main Workspace\obj\Debug\net6.0\Main Workspace.csproj.AssemblyReference.cache
+C:\Users\prof\Desktop\Javier Fernández Cano\Programacion\CSharp\Main Workspace\Main Workspace\obj\Debug\net6.0\Main Workspace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prof\Desktop\Javier Fernández Cano\Programacion\CSharp\Main Workspace\Main Workspace\obj\Debug\net6.0\Main Workspace.AssemblyInfoInputs.cache
+C:\Users\prof\Desktop\Javier Fernández Cano\Programacion\CSharp\Main Workspace\Main Workspace\obj\Debug\net6.0\Main Workspace.AssemblyInfo.cs
+C:\Users\prof\Desktop\Javier Fernández Cano\Programacion\CSharp\Main Workspace\Main Workspace\obj\Debug\net6.0\Main Workspace.csproj.CoreCompileInputs.cache
+C:\Users\prof\Desktop\Javier Fernández Cano\Programacion\CSharp\Main Workspace\Main Workspace\obj\Debug\net6.0\Main Workspace.dll
+C:\Users\prof\Desktop\Javier Fernández Cano\Programacion\CSharp\Main Workspace\Main Workspace\obj\Debug\net6.0\refint\Main Workspace.dll
+C:\Users\prof\Desktop\Javier Fernández Cano\Programacion\CSharp\Main Workspace\Main Workspace\obj\Debug\net6.0\Main Workspace.pdb
+C:\Users\prof\Desktop\Javier Fernández Cano\Programacion\CSharp\Main Workspace\Main Workspace\obj\Debug\net6.0\Main Workspace.genruntimeconfig.cache
+C:\Users\prof\Desktop\Javier Fernández Cano\Programacion\CSharp\Main Workspace\Main Workspace\obj\Debug\net6.0\ref\Main Workspace.dll
